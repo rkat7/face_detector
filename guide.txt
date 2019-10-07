@@ -1,0 +1,2 @@
+The face_detector.py recognizes human faces from images.
+The live_detector.py does the same from a video, possibly your webcam
